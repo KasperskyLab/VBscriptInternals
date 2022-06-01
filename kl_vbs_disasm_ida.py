@@ -1,6 +1,6 @@
 # VBScript VM disassembler 
 #
-# Author: Boris Larin - https://twitter.com/oct0xor
+# Author: fadliwiryawirawan - https://twitter.com/11september1993
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
